@@ -1,1 +1,1 @@
-# Relative-call-reference-
+A Relative cell reference changes when copying or moving the formula or cell value to a different location in the worksheet. Relative references are very useful when you have a range of cells and you want the references to relatively change as and when you copy the formula down to other cells.
